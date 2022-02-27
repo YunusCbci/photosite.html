@@ -1,0 +1,2 @@
+# photosite.html
+photos
